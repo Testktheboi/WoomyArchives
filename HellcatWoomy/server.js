@@ -431,7 +431,7 @@ const spawnBot = (loc = null) => {
     o.name = "[AI] " + ran.chooseBotName();
     o.skill.score = 26302; // 59212
     o.dangerValue = 7;
-    o.nameColor = o.name.includes("Bee") ? "#FFF782" : o.name.includes("Honey Bee") ? "#FCCF3B" : o.name.includes("Fallen") ? "#CCCCCC" : "#C1CAFF";
+    o.nameColor = o.name.includes("Bee") ? "#FFF300" : o.name.includes("Honey Bee") ? "#FCCF3B" : o.name.includes("Fallen") ? "#CCCCCC" : "#C1CAFF";
     //o.facing += ran.randomRange(.5 * Math.PI, Math.PI); // Does nothing
     o.autoOverride = true;
     setTimeout(() => {
