@@ -26,7 +26,7 @@ const maps = [{
     ],
     "X_GRID": 15,
     "Y_GRID": 15,
-    "BOTS": 8
+    "BOTS": 20
 }, {
     "mapName": "Frontline - Fourche7",
     "WIDTH": 5750,
@@ -50,7 +50,7 @@ const maps = [{
     ],
     "X_GRID": 11,
     "Y_GRID": 11,
-    "BOTS": 8
+    "BOTS": 20
 }, {
     "mapName": "Catch22 - Fourche7",
     "WIDTH": 8750,
@@ -96,6 +96,6 @@ const maps = [{
     ],
     "X_GRID": 27,
     "Y_GRID": 21,
-    "BOTS": 8
+    "BOTS": 20
 }];
 module.exports = [Math.random() * maps.length | 0];
