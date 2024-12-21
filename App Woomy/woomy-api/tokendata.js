@@ -8,5 +8,5 @@ export const tokendata = {
   "670757057267236864": [2, "#7895a6"], // dip
   "340195106214641665": [2, "#048606"], // vermillion
   // Senior Beta testers
-  "298203257451577346": [1, "#FFFFFF"]
+  "298203257451577346": [1, "#FFFFFF"], // kot
 }
