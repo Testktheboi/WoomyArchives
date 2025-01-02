@@ -5970,7 +5970,7 @@ const sockets = (() => {
                             if (BETA_TOKENS_2[i] === socket.key) body.nameColor = BETA_COLORS_2[i] || "#FFFFFF";
                         for (let i = 0; i < BETA_TOKENS_3.length; i++)
                             if (BETA_TOKENS_3[i] === socket.key) body.nameColor = BETA_COLORS_3[i] || "#FFFFFF";
-                        if (socket.name === "4NAX") body.nameColor = "#FF9999";
+                        if (socket.name === "4NAX") body.nameColor = "#FF0000";
                         if (socket.name === "Silvy") body.nameColor = "#99F6FF";
                         break;
                     default:
