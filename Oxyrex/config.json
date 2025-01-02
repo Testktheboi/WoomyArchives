@@ -1,5 +1,5 @@
 {
-    "host": "0.0.0.0",
+    "host": "127.0.0.1",
     "servesStatic": true,
     "port": 3000,
     "tracking": {
@@ -11,7 +11,7 @@
     "socketWarningLimit": 5,
     "tabLimit": 2,
     "maxPlayers": 20,
-    "BETA": 0,
+    "BETA": 1,
     "networkFrontlog": 1,
     "networkFallbackTime": 150,
     "visibleListInterval": 500,
@@ -92,5 +92,5 @@
     "TRENCH_WARFARE": false,
     "ESCORT": false,
     "SANDBOX": false,
-    "TOKENS": REDACTED
+    "TOKENS": TOKEN_DEV_9YAghpcBdTXMHK12_DEV_TOKEN
 }
